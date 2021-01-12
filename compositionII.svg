@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="237mm" height="240mm" stroke="black" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Piet Mondriaan</title>
+  <desc>Composition II in Red, Blue, and Yellow, 1930</desc>
+  <!-- outline -->
+  <rect x="0mm" y="0mm" width="237mm" height="240mm" fill="none" stroke="black"></rect>
+  <!--first white -->
+  <rect x="0mm" y="0mm" width="50mm" height="80mm" fill="white" stroke="black"></rect>
+  <!--first white and second white separation-->
+  <rect x="0mm" y="80mm" width="50mm" height="15mm" fill="black" stroke="black"></rect>
+  <!--second white-->
+  <rect x="0mm" y="95mm" width="50mm" height="80mm" fill="white" stroke="black"></rect>
+  <!--white and blue separation-->
+  <rect x="0mm" y="175mm" width="50mm" height="10mm" fill="black" stroke="black"></rect>
+  <!--blue-->
+  <rect x="0mm" y="185mm" width="50mm" height="60mm" fill="blue" stroke="black"></rect>
+  <!--white and red separation -->
+  <rect x="50mm" y="0mm" width="10mm" height="180mm" fill="black"></rect>
+  <!--red-->
+  <rect x="60mm" y="0mm" width="177mm" height="175mm" fill="red" stroke="black"></rect>
+  <!--blue and white separation-->
+  <rect x="50mm" y="180mm" width="10mm" height="60mm" fill="black"></rect>
+  <!--red and white separation-->
+  <rect x="60mm" y="175mm" width="177mm" height="10mm" fill="black"></rect>
+  <!--white and white yellow separation-->
+  <rect x="197mm" y="185mm" width="10mm" height="55mm" fill="black"></rect>
+  <!--white-->
+  <rect x="207mm" y="185mm" width="30mm" height="22.5mm" fill="white"></rect>
+  <!--yellow and white separation-->
+  <rect x="207mm" y="207.5mm" width="30mm" height="10mm" fill="black"></rect>
+  <!--yellow-->
+  <rect x="207mm" y="217.5mm" width="30mm" height="22.5mm" fill="yellow"></rect>
+</svg>
